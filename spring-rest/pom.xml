@@ -331,7 +331,7 @@
 
 		<json.path.version>2.2.0</json.path.version>
 		
-		<pact.version>3.5.11</pact.version>
+		<pact.version>3.5.14</pact.version>
 	</properties>
 
 </project>
